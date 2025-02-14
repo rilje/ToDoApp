@@ -1,6 +1,6 @@
 # 01_ToDoApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple project that allows adding and deleting daily tasks, as well as viewing completed and active ones.
 
 ## Recommended IDE Setup
 
